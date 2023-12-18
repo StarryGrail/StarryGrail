@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StarryGrail
 - 👀 I’m interested in Technology, Science, Business, and Economics
-- 🌱 I’m currently learning Java for Application Development
+- 🌱 I’m currently learning Java as my starter foundation for Application Development
   
 
 <!---
