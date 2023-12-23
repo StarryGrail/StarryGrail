@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @StarryGrail A.K.A Asshley
-- 👀 I’m interested in Technology, Science, Business, and Economics
+- 👋 Hi, I’m Asshley A.K.A @StarryGrail
+- 👀 I’m fond of learning Technology, Science, Business, and Economics
 - 🌱 I’m currently learning Java as my starter foundation for Programming and Application Development
   
 
